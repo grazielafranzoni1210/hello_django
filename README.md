@@ -13,3 +13,9 @@ Projeto dividido em dois repósitorios, necessário utilizar os dois repositóri
 
 https://github.com/grazielafranzoni1210/hello_django<br>
 https://github.com/grazielafranzoni1210/agenda_dio.git
+---------------------------------------------------------------------
+#### Tecnologias utilizadas:
+
+- Pycharm
+- Django 3.2
+- SQlite3
