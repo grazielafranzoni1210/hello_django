@@ -11,4 +11,5 @@
 ---------------------------------------------------------------------
 * Projeto dividido em dois repósitorios, necessário utilizar os dois repositórios:
 
+https://github.com/grazielafranzoni1210/hello_django
 https://github.com/grazielafranzoni1210/agenda_dio.git
