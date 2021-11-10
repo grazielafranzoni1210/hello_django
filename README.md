@@ -9,7 +9,7 @@
 
 
 ---------------------------------------------------------------------
-* Projeto dividido em dois repósitorios, necessário utilizar os dois repositórios:
+Projeto dividido em dois repósitorios, necessário utilizar os dois repositórios:
 
 https://github.com/grazielafranzoni1210/hello_django<br>
 https://github.com/grazielafranzoni1210/agenda_dio.git
