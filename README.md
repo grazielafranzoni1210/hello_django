@@ -18,4 +18,4 @@ Projeto dividido em dois repósitorios, necessário utilizar os dois repositóri
 
 - Pycharm
 - Django 3.2
-- SQlite3
+- Sqlite3
