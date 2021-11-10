@@ -1,6 +1,6 @@
-##### Curso fornecido pela Digital Innovation One (DIO)
+#### Curso fornecido pela Digital Innovation One (DIO)
 
-#### Aula 1
+##### Aula 1
 
 - Criação da Virtualenv
 - Criação do primeiro projeto Django
